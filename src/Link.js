@@ -18,7 +18,7 @@ class Link extends React.Component {
         onMouseEnter={() => this.setState({class: STATUS.HOVER})}
         onMouseLeave={() => this.setState({class: STATUS.NORMAL})}
       >
-        Learn React
+        Learn React on app
       </a>
     )
   }
