@@ -7,7 +7,7 @@ exports[`Link color changes when hovered 1`] = `
   onMouseEnter={[Function]}
   onMouseLeave={[Function]}
 >
-  Learn React on app
+  Learn React updates branch
 </a>
 `;
 
@@ -18,7 +18,7 @@ exports[`Link color changes when hovered 2`] = `
   onMouseEnter={[Function]}
   onMouseLeave={[Function]}
 >
-  Learn React on app
+  Learn React updates branch
 </a>
 `;
 
@@ -29,6 +29,6 @@ exports[`Link color changes when hovered 3`] = `
   onMouseEnter={[Function]}
   onMouseLeave={[Function]}
 >
-  Learn React on app
+  Learn React updates branch
 </a>
 `;
